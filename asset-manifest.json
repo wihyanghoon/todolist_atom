@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/todoatom/static/js/main.09e29980.js",
-    "index.html": "/todoatom/index.html",
-    "main.09e29980.js.map": "/todoatom/static/js/main.09e29980.js.map"
+    "main.js": "/todolist_atom/static/js/main.58a492ef.js",
+    "index.html": "/todolist_atom/index.html",
+    "main.58a492ef.js.map": "/todolist_atom/static/js/main.58a492ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.09e29980.js"
+    "static/js/main.58a492ef.js"
   ]
 }
